@@ -17,14 +17,13 @@ CSS Framework: Tailwind CSS (Daisy)
 Payment System: Stripe
 Installation
 
-Clone the repository: git clone https://github.com/your-username/kids-nanny.git
+Clone the repository: git clone repo link
 Navigate to the project directory: cd kids-nanny
 Install dependencies: npm install
-[Add any other necessary steps for setting up the app]
 Getting Started
 
-Start the app locally: npm start
-Open your browser and go to https://kid-s-nanny.web.app
+npm run dev
+Open your browser and go to https://kid-s-nanny.web.app [live link]
 Contact
 
 For inquiries, feedback, or collaboration opportunities, please reach out to Mehraj Hossain Ratul at mhratul9@gmail.com.
