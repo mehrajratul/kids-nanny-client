@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "60ae3e80c27b73001514b491",
+    "title": "Full-Day Child Care",
+    "img": "https://i.ibb.co/pdn7Zyr/service1.jpg",
+    "price": 35,
+    "category": "ChildCare",
+    "description": "Provide your child with a full day of engaging activities, learning opportunities, and social interactions in a safe and nurturing environment."
+  },
+  {
+    "_id": "60ae3e80c27b73001514b492",
+    "title": "Preschool Readiness Program",
+    "img": "https://i.ibb.co/r0bxmCt/service2.jpg",
+    "price": 40,
+    "category": "Enrichment",
+    "description": "Prepare your little one for the exciting journey of preschool with a program designed to enhance cognitive skills, social development, and early literacy."
+  },
+  {
+    "_id": "60ae3e80c27b73001514b493",
+    "title": "After-School Enrichment",
+    "img": "https://i.ibb.co/NWSYN9s/service3.jpg",
+    "price": 25,
+    "category": "Enrichment",
+    "description": "Extend your child's learning beyond the classroom with our after-school program, featuring homework assistance, creative activities, and playtime."
+  },
+  {
+    "_id": "60ae3e80c27b73001514b494",
+    "title": "Outdoor Adventure Day",
+    "img": "https://i.ibb.co/vmJv8hP/service4.jpg",
+    "price": 30,
+    "category": "Adventure",
+    "description": "Embark on an outdoor adventure day filled with nature exploration, group games, and fun activities that promote physical fitness and teamwork."
+  },
+  {
+    "_id": "60ae3e80c27b73001514b495",
+    "title": "Language Development Class",
+    "img": "https://i.ibb.co/wCYzmgh/service5.jpg",
+    "price": 20,
+    "category": "Education",
+    "description": "Immerse your child in language-rich activities to enhance communication skills and instill a love for diverse languages."
+  },
+  {
+    "_id": "60ae3e80c27b73001514b496",
+    "title": "Music and Movement Session",
+    "img": "https://i.ibb.co/BVF8RQc/service6.jpg",
+    "price": 18,
+    "category": "Enrichment",
+    "description": "Introduce your child to the joy of music and movement through interactive sessions that promote rhythm, coordination, and expression."
+  }
+]

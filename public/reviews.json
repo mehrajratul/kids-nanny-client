@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "643010e0f5a7e52ce1e8fa66",
+    "name": "John Smith",
+    "details": "Our experience with this daycare has been wonderful. The staff is attentive and caring, ensuring a safe and nurturing environment for our child. It is a joy to see our little one excited to go there every day.",
+    "rating": 5
+  },
+  {
+    "_id": "643010e0f5a7e52ce1e8fa67",
+    "name": "Emily Johnson",
+    "details": "The daycare staff goes above and beyond to make sure every child feels loved and secure. The facility is clean, and they offer a variety of engaging activities. Our family highly recommends this daycare!",
+    "rating": 4
+  },
+  {
+    "_id": "643010e0f5a7e52ce1e8fa68",
+    "name": "Michael Davis",
+    "details": "A reliable and caring daycare service. Our child has developed valuable social skills and a love for learning under their guidance. The staff communicates well with parents and creates a warm, inviting atmosphere.",
+    "rating": 5
+  },
+  {
+    "_id": "643010e0f5a7e52ce1e8fa69",
+    "name": "Sarah Brown",
+    "details": "We appreciate the structured activities and educational focus of this daycare. The caregivers are patient and kind, fostering a positive learning environment. Our child is thriving here.",
+    "rating": 4
+  },
+  {
+    "_id": "643010e0f5a7e52ce1e8fa6a",
+    "name": "Robert Miller",
+    "details": "Exceptional daycare with a strong emphasis on child development. The staff is friendly, and the facility is well-maintained. Our family feels confident in the care and education provided to our little one.",
+    "rating": 5
+  }
+]
