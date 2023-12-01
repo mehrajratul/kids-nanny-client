@@ -7,7 +7,7 @@ import Services from "../Services/Services";
 
 const Home = () => {
   return (
-    <div className="">
+    <div className="overflow-x-auto">
       <Helmet>
         <title>{"Kid's Nanny || Home"}</title>
       </Helmet>
