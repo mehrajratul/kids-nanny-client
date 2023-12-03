@@ -3,7 +3,7 @@ import img from "../../../assets/about-us.jpg";
 
 const About = () => {
   return (
-    <section className="">
+    <section className="w-full">
       <div className="">
         <Headlines
           subHeadline={"About Us"}
@@ -14,7 +14,7 @@ const About = () => {
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
             src={img}
-            className="max-w-md rounded-lg shadow-2xl border-8 border-gray-50"
+            className="max-w-sm rounded-lg shadow-2xl border-8 border-gray-50"
           />
           <div>
             <p className="py-4">
